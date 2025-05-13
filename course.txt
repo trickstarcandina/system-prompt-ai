@@ -1,0 +1,6 @@
+Anthropic
+  - https://github.com/anthropics/courses
+  - https://www.youtube.com/watch?v=D7_ipDqhtwk&ab_channel=AIEngineer
+
+OpenAI
+  - https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf
