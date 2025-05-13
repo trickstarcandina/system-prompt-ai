@@ -1,0 +1,27 @@
+𝘔𝘰𝘷𝘪𝘯𝘨 𝘱𝘪𝘦𝘤𝘦𝘴 𝘪𝘯 𝘔𝘊𝘗:
+
+𝟭. MCP Host - Programs using LLMs at the core that want to access data through MCP.
+
+❗️ When combined with A2A, an Agent becomes MCP Host.
+
+𝟮. MCP Client - Clients that maintain 1:1 connections with servers.
+𝟯. MCP Server - Lightweight programs that each expose specific capabilities through the standardized Model Context Protocol.
+𝟰. Local Data Sources - Your computer’s files, databases, and services that MCP servers can securely access.
+𝟱. Remote Data Sources - External systems available over the internet (e.g., through APIs) that MCP servers can connect to.
+
+𝘌𝘯𝘵𝘦𝘳 𝘈2𝘈:
+
+Where MCP falls short, A2A tries to help. In multi-Agent applications where state is not necessarily shared
+
+𝟲. Agents (MCP Hosts) would implement and communicate via A2A protocol, that enables:
+
+➡️ Secure Collaboration - MCP lacks authentication.
+➡️ Task and State Management.
+➡️ User Experience Negotiation.
+➡️ Capability discovery - similar to MCP tools.
+
+𝗛𝗼𝗻𝗲𝘀𝘁 𝘁𝗵𝗼𝘂𝗴𝗵𝘁𝘀:
+
+❗️ I believe creators of MCP were planning to implement similar capabilities to A2A and expose agents via tools in long term.
+❗️ We might just see a fight around who will win and become the standard protocol long term as both protocols might be expanding.
+
